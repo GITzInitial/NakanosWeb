@@ -5,7 +5,8 @@
     font-family: Arial, sans-serif;
 }
 
-body {
+html, body {
+    height: 100%;  /* Ensure full viewport height is covered by gradient */
     background: linear-gradient(to bottom, 
         #1e2a47 0%,    /* Dark blue with a slight purple tone */
         #2c3e6e 50%,   /* Medium-dark blue */
