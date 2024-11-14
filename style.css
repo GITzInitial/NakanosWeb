@@ -6,7 +6,7 @@
 }
 
 body {
-    background: linear-gradient(to bottom, #1a1a2e, #16213e, #0f0f1a);  /* Midnight sky gradient */
+    background: linear-gradient(to bottom, #2c3e50, #34495e, #5f6a72);  /* Brighter Midnight sky gradient */
     color: #f7f7f7;  /* Light text color for contrast */
     display: flex;
     flex-direction: column;
@@ -17,7 +17,7 @@ body {
 header {
     text-align: center;
     padding: 20px;
-    background-color: #1f1f2e;  /* Darker blueish color */
+    background-color: #34495e;  /* Slightly lighter dark color */
     color: #fff;
     border-radius: 15px;
     width: 100%;
