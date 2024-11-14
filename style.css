@@ -6,7 +6,10 @@
 }
 
 body {
-    background: linear-gradient(to bottom, #1e2a47, #2c3e6e, #4c5b8c);  /* Brighter midnight sky gradient */
+    background: linear-gradient(to bottom, 
+        #1e2a47 0%,    /* Dark blue with a slight purple tone */
+        #2c3e6e 50%,   /* Medium-dark blue */
+        #4c5b8c 100%);  /* Lighter blue at the bottom */
     color: #f7f7f7;  /* Light text color for contrast */
     display: flex;
     flex-direction: column;
