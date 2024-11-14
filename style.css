@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: #121212;  /* Midnight dark background */
+    background: linear-gradient(to bottom, #1a1a2e, #16213e, #0f0f1a);  /* Midnight sky gradient */
     color: #f7f7f7;  /* Light text color for contrast */
     display: flex;
     flex-direction: column;
